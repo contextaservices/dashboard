@@ -6,23 +6,33 @@
   "speakers": [
     {
       "spkid": "spk1",
-      "name": "spk1"
+      "name": "Marc van der Peet"
     },
     {
       "spkid": "spk2",
-      "name": "spk2"
+      "name": "Tim Harbers"
     }
   ],
   "questions": [
     {
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "start": 22.45,
-      "end": 25.85
+      "text": "Soorten hypotheken - [Marc van der Peet]",
+      "start": 71,
+      "end": 77
     },
     {
-      "text": "Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
-      "start": 32.45,
-      "end": 39.85
+      "text": "Basis / Rente percentage - [Tim Harbers]",
+      "start": 100,
+      "end": 103
+    },
+    {
+      "text": "Basis / Vastzetten - [Marc van der Peet]",
+      "start": 105,
+      "end": 110
+    },
+    {
+      "text": "Basis / Onbepaalde tijd [Tim Harbers]",
+      "start": 128,
+      "end": 132
     }
   ],
   "sentiment": [
