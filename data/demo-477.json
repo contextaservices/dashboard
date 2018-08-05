@@ -6,36 +6,121 @@
   "speakers": [
     {
       "spkid": "spk1",
-      "name": "Marc van der Peet"
+      "name": "Marc",
+      "wpm": 157
     },
     {
       "spkid": "spk2",
-      "name": "Tim Harbers"
+      "name": "Tim",
+      "wpm": 142
     }
   ],
+  "charts": [{
+    "title": "Sentiment",
+    "chartType": "KPI",
+    "order": 1,
+    "data": [{
+        "key": "selectionScore",
+        "value": 2.049
+      }, {
+        "key": "refScore",
+        "value": 1.99
+      }, {
+        "key": "label",
+        "value": 2.049
+      }, {
+        "key": "maxValue",
+        "value": 6.147
+      }, {
+        "key": "minValue",
+        "value": 0.6633333333333333
+      }
+    ],
+    "scoreType": "NUMBER",
+    "label": 2.049,
+    "refScore": 1.99,
+    "selectionScore": 2.049
+  }, {
+    "title": "Silence",
+    "chartType": "KPI",
+    "order": 1,
+    "data": [{
+      "key": "selectionScore",
+      "value": 7.09
+    }, {
+      "key": "refScore",
+      "value": 4.241
+    }, {
+      "key": "label",
+      "value": 7.09
+    }, {
+      "key": "maxValue",
+      "value": 21.27
+    }, {
+      "key": "minValue",
+      "value": 1.4136666666666666
+    }],
+    "scoreType": "NUMBER",
+    "label": 7.09,
+    "refScore": 4.241,
+    "selectionScore": 7.09
+  }, {
+    "title": "Duration",
+    "chartType": "KPI",
+    "order": 1,
+    "data": [{
+      "key": "selectionScore",
+      "value": 7.09
+    }, {
+      "key": "refScore",
+      "value": 4.241
+    }, {
+      "key": "label",
+      "value": 7.09
+    }, {
+      "key": "maxValue",
+      "value": 21.27
+    }, {
+      "key": "minValue",
+      "value": 1.4136666666666666
+    }],
+    "scoreType": "NUMBER",
+    "label": 7.09,
+    "refScore": 4.241,
+    "selectionScore": 7.09
+  }],
   "questions": [
     {
-      "text": "Soorten hypotheken - [Marc van der Peet]",
-      "start": 71,
-      "end": 77
+      "text": "Soorten hypotheken",
+      "topic": "Marc van der Peet",
+      "start": 71.17,
+      "end": 76.39
     },
     {
-      "text": "Basis / Rente percentage - [Tim Harbers]",
-      "start": 100,
-      "end": 103
+      "text": "Basis / Rente percentage",
+      "topic": "Tim Harbers",
+      "start": 100.6,
+      "end": 104.9
     },
     {
-      "text": "Basis / Vastzetten - [Marc van der Peet]",
-      "start": 105,
-      "end": 110
+      "text": "Basis / Vastzetten",
+      "topic": "Marc van der Peet",
+      "start": 105.61,
+      "end": 109.45
     },
     {
-      "text": "Basis / Onbepaalde tijd [Tim Harbers]",
-      "start": 128,
-      "end": 132
+      "text": "Basis / Onbepaalde tijd",
+      "topic": "Tim Harbers",
+      "start": 128.69,
+      "end": 134.54
     }
   ],
   "sentiment": [
+    {
+      "value": 1,
+      "start": 7.45,
+      "end": 14.85
+    },
     {
       "value": 1,
       "start": 22.45,
@@ -50,13 +135,22 @@
       "value": -1,
       "start": 35.45,
       "end": 41.85
+    },
+    {
+      "value": -1,
+      "start": 80,
+      "end": 87
+    },
+    {
+      "value": 1,
+      "start": 125.17,
+      "end": 126.34
     }
   ],
-  "wrapUp": [
+  "summary": [
     {
       "start": 4.45,
-      "end": 8.85,
-      "text": "It looks like the client was intereste in pricing. Is that correct?",
+      "text": "It looks like the client was interested in pricing. Is that correct?",
       "actions": [
         {
           "type": "radio",
@@ -77,8 +171,7 @@
     },
     {
       "start": 13.45,
-      "end": 19.85,
-      "text": "It looks like the client was intereste in pricing. Is that correct?",
+      "text": "It looks like the representative promised to send more information. Is that correct?",
       "actions": [
         {
           "type": "checkbox",
@@ -108,8 +201,7 @@
       ]
     },
     {
-      "start": 24.45,
-      "end": 29.85,
+      "start": 63.579998,
       "text": "We saw several mention of competitors. Did the client already talked to competitors?",
       "actions": [
         {
@@ -130,8 +222,7 @@
       ]
     },
     {
-      "start": 24.45,
-      "end": 29.85,
+      "start": 128.69,
       "text": "This was a long answer from client concerning pricing. Should you make a note of this?",
       "actions": [
         {
@@ -139,8 +230,18 @@
           "elements": [
             {
               "value": "",
-              "label": "",
+              "label": "Enter your note here...",
               "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "radio",
+          "elements": [
+            {
+              "value": false,
+              "label": "No",
+              "type": "boolean"
             }
           ]
         }
@@ -1668,16 +1769,16 @@
         {
           "text": "wat ",
           "start": 100.6,
-          "end": 102.345
+          "end": 101.2
         },
         {
           "text": "is ",
-          "start": 100.6,
-          "end": 102.345
+          "start": 101.2,
+          "end": 101.8
         },
         {
           "text": "rente ",
-          "start": 100.6,
+          "start": 101.8,
           "end": 102.345
         },
         {
