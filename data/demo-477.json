@@ -145,7 +145,7 @@
           "elements": [
             {
               "value": false,
-              "label": "Send information to Tim"
+              "label": "Send additional information to Tim"
             }
           ]
         },
@@ -166,7 +166,7 @@
     },
     {
       "start": 63.579998,
-      "text": "We saw several mention of competitors. Did the client already talked to competitors?",
+      "text": "We saw several mentions of competitors. Did the client talk to competitors yet?",
       "actions": [
         {
           "type": "radio",
