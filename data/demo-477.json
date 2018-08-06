@@ -115,41 +115,10 @@
       "end": 134.54
     }
   ],
-  "sentiment": [
-    {
-      "value": 1,
-      "start": 7.45,
-      "end": 14.85
-    },
-    {
-      "value": 1,
-      "start": 22.45,
-      "end": 24.85
-    },
-    {
-      "value": 0,
-      "start": 24.85,
-      "end": 28.85
-    },
-    {
-      "value": -1,
-      "start": 35.45,
-      "end": 41.85
-    },
-    {
-      "value": -1,
-      "start": 80,
-      "end": 87
-    },
-    {
-      "value": 1,
-      "start": 125.17,
-      "end": 126.34
-    }
-  ],
+  "sentiment": [],
   "summary": [
     {
-      "start": 4.45,
+      "start": 63.579998,
       "text": "It looks like the client was interested in pricing. Is that correct?",
       "actions": [
         {
@@ -157,20 +126,18 @@
           "elements": [
             {
               "value": true,
-              "label": "Yes",
-              "type": "boolean"
+              "label": "Yes"
             },
             {
               "value": false,
-              "label": "No",
-              "type": "boolean"
+              "label": "No"
             }
           ]
         }
       ]
     },
     {
-      "start": 13.45,
+      "start": 158.13,
       "text": "It looks like the representative promised to send more information. Is that correct?",
       "actions": [
         {
@@ -178,8 +145,7 @@
           "elements": [
             {
               "value": false,
-              "label": "Send information to Jeroen",
-              "type": "boolean"
+              "label": "Send information to Tim"
             }
           ]
         },
@@ -188,13 +154,11 @@
           "elements": [
             {
               "value": true,
-              "label": "Yes",
-              "type": "boolean"
+              "label": "Yes"
             },
             {
               "value": false,
-              "label": "No",
-              "type": "boolean"
+              "label": "No"
             }
           ]
         }
@@ -209,13 +173,11 @@
           "elements": [
             {
               "value": true,
-              "label": "Yes",
-              "type": "boolean"
+              "label": "Yes"
             },
             {
               "value": false,
-              "label": "No",
-              "type": "boolean"
+              "label": "No"
             }
           ]
         }
@@ -224,14 +186,14 @@
     {
       "start": 128.69,
       "text": "This was a long answer from client concerning pricing. Should you make a note of this?",
+      "area": "comments",
       "actions": [
         {
           "type": "textarea",
           "elements": [
             {
               "value": "",
-              "label": "Enter your note here...",
-              "type": "text"
+              "label": "Enter your note here..."
             }
           ]
         },
@@ -239,9 +201,12 @@
           "type": "radio",
           "elements": [
             {
+              "value": true,
+              "label": "Add"
+            },
+            {
               "value": false,
-              "label": "No",
-              "type": "boolean"
+              "label": "No"
             }
           ]
         }
