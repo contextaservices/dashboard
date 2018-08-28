@@ -8,7 +8,7 @@
     "complianceRisk": 25,
     "longestMonologue": {
       "duration": 23,
-      "start": 0
+      "start": 0.94
     },
     "longestStory": {
       "duration": 33,
@@ -18,12 +18,12 @@
   "speakers": [
     {
       "spkid": "spk1",
-      "name": "spk1",
+      "name": "Ilya",
       "wpm": 122
     },
     {
       "spkid": "spk2",
-      "name": "spk2",
+      "name": "Pieter",
       "wpm": 157
     }
   ],
@@ -50,7 +50,7 @@
   "sentiment": [],
   "summary": [
     {
-      "start": 17.08,
+      "start": 77.75,
       "text": "It looks like the client was interested in pricing. Is that correct?",
       "actions": [
         {
@@ -77,6 +77,7 @@
           "elements": [
             {
               "value": false,
+              "true-value": "Pieter",
               "label": "Send additional information to Pieter"
             }
           ]
