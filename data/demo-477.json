@@ -3,6 +3,18 @@
   "recordId": "marc_1532704403673_50425272",
   "startTimeOffset": 0,
   "highlights": [],
+  "metrics": {
+    "talktime": 65,
+    "complianceRisk": 25,
+    "longestMonologue": {
+      "duration": 20,
+      "start": 80.05
+    },
+    "longestStory": {
+      "duration": 17,
+      "start": 128.69
+    }
+  },
   "speakers": [
     {
       "spkid": "spk1",
