@@ -127,7 +127,7 @@
       ]
     }
   ],
-  "segments": [
+   "segments": [
     {
       "words": [
         {
@@ -156,14 +156,14 @@
           "end": 1.8
         },
         {
-          "text": "go",
+          "text": "gold",
           "start": 1.8,
-          "end": 1.9
+          "end": 2.6
         },
         {
-          "text": "back",
-          "start": 1.9,
-          "end": 2.1
+          "text": "bank",
+          "start": 2.6,
+          "end": 2.6
         },
         {
           "text": "how",
@@ -278,31 +278,31 @@
         {
           "text": "No",
           "start": 8.900001,
-          "end": 10.4500005
+          "end": 10.450001
         },
         {
           "text": "problem",
           "start": 8.900001,
-          "end": 10.4500005
+          "end": 10.450001
         },
         {
           "text": "I",
           "start": 8.900001,
-          "end": 10.4500005
+          "end": 10.450001
         },
         {
           "text": "see",
           "start": 8.900001,
-          "end": 10.4500005
+          "end": 10.450001
         },
         {
           "text": "you",
           "start": 8.900001,
-          "end": 10.4500005
+          "end": 10.450001
         },
         {
           "text": "contacted",
-          "start": 10.4500005,
+          "start": 10.450001,
           "end": 12
         },
         {
@@ -558,32 +558,32 @@
         {
           "text": "let",
           "start": 33.3,
-          "end": 34.849999
+          "end": 34.85
         },
         {
           "text": "me",
           "start": 33.3,
-          "end": 34.849999
+          "end": 34.85
         },
         {
           "text": "look",
           "start": 33.3,
-          "end": 34.849999
+          "end": 34.85
         },
         {
           "text": "at",
           "start": 33.3,
-          "end": 34.849999
+          "end": 34.85
         },
         {
           "text": "the",
           "start": 33.3,
-          "end": 34.849999
+          "end": 34.85
         },
         {
           "text": "options",
           "start": 33.3,
-          "end": 34.849999
+          "end": 34.85
         },
         {
           "text": "so",
@@ -642,7 +642,7 @@
       "words": [
         {
           "text": "Detect",
-          "start": 44.72,
+          "start": 44.7,
           "end": 50
         },
         {
@@ -656,14 +656,19 @@
           "end": 50.6
         },
         {
-          "text": "te",
+          "text": "the",
           "start": 50.6,
           "end": 50.899998
         },
         {
-          "text": "second",
-          "start": 50.9,
-          "end": 52
+          "text": "gold",
+          "start": 50.899998,
+          "end": 56
+        },
+        {
+          "text": "tech",
+          "start": 56,
+          "end": 56
         },
         {
           "text": "one",
@@ -796,7 +801,7 @@
           "end": 70.1
         },
         {
-          "text": "and",
+          "text": "Andy",
           "start": 70.1,
           "end": 70.4
         },
@@ -878,11 +883,11 @@
         {
           "text": "phone",
           "start": 75.600006,
-          "end": 76.800003
+          "end": 76.8
         },
         {
           "text": "interested",
-          "start": 76.800003,
+          "start": 76.8,
           "end": 78
         },
         {
@@ -1613,12 +1618,12 @@
         {
           "text": "do",
           "start": 186,
-          "end": 186.01
+          "end": 186.1
         },
         {
           "text": "thanks",
-          "start": 186.01,
-          "end": 186.02
+          "start": 186.1,
+          "end": 186.2
         }
       ],
       "speaker": "spk2"
@@ -1627,18 +1632,18 @@
       "words": [
         {
           "text": "No",
-          "start": 186.02,
-          "end": 186.03
+          "start": 186.2,
+          "end": 186.3
         },
         {
           "text": "problem",
-          "start": 186.03,
-          "end": 186.04
+          "start": 186.3,
+          "end": 186.4
         },
         {
           "text": "thanks",
-          "start": 186.04,
-          "end": 186.05
+          "start": 186.4,
+          "end": 186.5
         }
       ],
       "speaker": "spk1"
