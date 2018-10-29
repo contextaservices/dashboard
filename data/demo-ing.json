@@ -74,8 +74,8 @@
           "elements": [
             {
               "value": false,
-              "true-value": "Andrew",
-              "label": "Send email to Andrew"
+              "true-value": "maximale leencapaciteit",
+              "label": "Send additional information about 'maximale leencapaciteit'"
             }
           ]
         },
