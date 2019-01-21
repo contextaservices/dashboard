@@ -47,6 +47,20 @@
       "end": 123.61
     }
   ],
+  "topics": [
+    {
+      "start": 33.32,
+      "end": 60.280003,
+      "spkid": "spk1",
+      "topic": "zoektocht"
+    },
+    {
+      "start": 77.75,
+      "end": 90.04,
+      "spkid": "spk2",
+      "topic": "hoeveelheid lening"
+    }
+  ],
   "sentiment": [],
   "summary": [
     {
