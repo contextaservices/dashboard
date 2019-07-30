@@ -27,80 +27,101 @@
       "wpm": 142
     }
   ],
-  "charts": [{
-    "title": "Sentiment",
-    "chartType": "KPI",
-    "order": 1,
-    "data": [{
-        "key": "selectionScore",
-        "value": 2.049
-      }, {
-        "key": "refScore",
-        "value": 1.99
-      }, {
-        "key": "label",
-        "value": 2.049
-      }, {
-        "key": "maxValue",
-        "value": 6.147
-      }, {
-        "key": "minValue",
-        "value": 0.6633333333333333
-      }
-    ],
-    "scoreType": "NUMBER",
-    "label": 2.049,
-    "refScore": 1.99,
-    "selectionScore": 2.049
-  }, {
-    "title": "Silence",
-    "chartType": "KPI",
-    "order": 1,
-    "data": [{
-      "key": "selectionScore",
-      "value": 7.09
-    }, {
-      "key": "refScore",
-      "value": 4.241
-    }, {
-      "key": "label",
-      "value": 7.09
-    }, {
-      "key": "maxValue",
-      "value": 21.27
-    }, {
-      "key": "minValue",
-      "value": 1.4136666666666666
-    }],
-    "scoreType": "NUMBER",
-    "label": 7.09,
-    "refScore": 4.241,
-    "selectionScore": 7.09
-  }, {
-    "title": "Duration",
-    "chartType": "KPI",
-    "order": 1,
-    "data": [{
-      "key": "selectionScore",
-      "value": 7.09
-    }, {
-      "key": "refScore",
-      "value": 4.241
-    }, {
-      "key": "label",
-      "value": 7.09
-    }, {
-      "key": "maxValue",
-      "value": 21.27
-    }, {
-      "key": "minValue",
-      "value": 1.4136666666666666
-    }],
-    "scoreType": "NUMBER",
-    "label": 7.09,
-    "refScore": 4.241,
-    "selectionScore": 7.09
-  }],
+  "charts": [
+    {
+      "title": "Sentiment",
+      "chartType": "KPI",
+      "order": 1,
+      "data": [
+        {
+          "key": "selectionScore",
+          "value": 2.049
+        },
+        {
+          "key": "refScore",
+          "value": 1.99
+        },
+        {
+          "key": "label",
+          "value": 2.049
+        },
+        {
+          "key": "maxValue",
+          "value": 6.147
+        },
+        {
+          "key": "minValue",
+          "value": 0.6633333333333333
+        }
+      ],
+      "scoreType": "NUMBER",
+      "label": 2.049,
+      "refScore": 1.99,
+      "selectionScore": 2.049
+    },
+    {
+      "title": "Silence",
+      "chartType": "KPI",
+      "order": 1,
+      "data": [
+        {
+          "key": "selectionScore",
+          "value": 7.09
+        },
+        {
+          "key": "refScore",
+          "value": 4.241
+        },
+        {
+          "key": "label",
+          "value": 7.09
+        },
+        {
+          "key": "maxValue",
+          "value": 21.27
+        },
+        {
+          "key": "minValue",
+          "value": 1.4136666666666666
+        }
+      ],
+      "scoreType": "NUMBER",
+      "label": 7.09,
+      "refScore": 4.241,
+      "selectionScore": 7.09
+    },
+    {
+      "title": "Duration",
+      "chartType": "KPI",
+      "order": 1,
+      "data": [
+        {
+          "key": "selectionScore",
+          "value": 7.09
+        },
+        {
+          "key": "refScore",
+          "value": 4.241
+        },
+        {
+          "key": "label",
+          "value": 7.09
+        },
+        {
+          "key": "maxValue",
+          "value": 21.27
+        },
+        {
+          "key": "minValue",
+          "value": 1.4136666666666666
+        }
+      ],
+      "scoreType": "NUMBER",
+      "label": 7.09,
+      "refScore": 4.241,
+      "selectionScore": 7.09
+    }
+  ],
   "questions": [
     {
       "text": "Soorten hypotheken",
