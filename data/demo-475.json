@@ -1,0 +1,273 @@
+{
+  "id": "5b52f7b884ad2b766f7298b3",
+  "recordId": "marc_1532163927030_49501751",
+  "startTimeOffset": 0,
+  "highlights": [],
+  "speakers": [
+    {
+      "spkid": "spk1",
+      "name": "spk1"
+    }
+  ],
+  "questions": [
+    {
+      "text": "Where are we going?",
+      "start": 22.45,
+      "end": 25.85
+    },
+    {
+      "text": "What do we do with it?",
+      "start": 32.45,
+      "end": 39.85
+    }
+  ],
+  "sentiment": [
+    {
+      "value": 1,
+      "start": 22.45,
+      "end": 24.85
+    },
+    {
+      "value": 0,
+      "start": 24.85,
+      "end": 28.85
+    },
+    {
+      "value": -1,
+      "start": 35.45,
+      "end": 41.85
+    }
+  ],
+  "segments": [
+    {
+      "words": [
+        {
+          "text": "hallo ",
+          "start": 28.45,
+          "end": 28.85
+        },
+        {
+          "text": "ja ",
+          "start": 30.49,
+          "end": 30.75
+        },
+        {
+          "text": "goed ",
+          "start": 30.82,
+          "end": 30.9
+        },
+        {
+          "text": "is ",
+          "start": 30.9,
+          "end": 31.02
+        },
+        {
+          "text": "werkt ",
+          "start": 31.08,
+          "end": 31.33
+        },
+        {
+          "text": "het ",
+          "start": 31.33,
+          "end": 31.4
+        },
+        {
+          "text": "niet ",
+          "start": 31.39,
+          "end": 31.75
+        },
+        {
+          "text": "dank ",
+          "start": 32.29,
+          "end": 32.47
+        },
+        {
+          "text": "je ",
+          "start": 32.47,
+          "end": 32.56
+        },
+        {
+          "text": "wel ",
+          "start": 32.56,
+          "end": 32.68
+        },
+        {
+          "text": "voor ",
+          "start": 32.68,
+          "end": 32.8
+        },
+        {
+          "text": "dit ",
+          "start": 32.8,
+          "end": 32.92
+        },
+        {
+          "text": "interview ",
+          "start": 32.95,
+          "end": 33.31
+        },
+        {
+          "text": "ik ",
+          "start": 33.36,
+          "end": 33.48
+        },
+        {
+          "text": "zou ",
+          "start": 33.49,
+          "end": 33.61
+        },
+        {
+          "text": "je ",
+          "start": 33.6,
+          "end": 33.69
+        },
+        {
+          "text": "graag ",
+          "start": 33.7,
+          "end": 33.97
+        },
+        {
+          "text": "zelf ",
+          "start": 34.58,
+          "end": 34.870003
+        },
+        {
+          "text": "graag ",
+          "start": 34.87,
+          "end": 35.2
+        },
+        {
+          "text": "even ",
+          "start": 35.2,
+          "end": 35.38
+        },
+        {
+          "text": "willen ",
+          "start": 35.38,
+          "end": 35.56
+        },
+        {
+          "text": "voorstellen ",
+          "start": 35.56,
+          "end": 36.010002
+        },
+        {
+          "text": "naar ",
+          "start": 36.99,
+          "end": 37.11
+        },
+        {
+          "text": "ik ",
+          "start": 38.18,
+          "end": 38.28
+        },
+        {
+          "text": "ben ",
+          "start": 38.28,
+          "end": 38.449997
+        },
+        {
+          "text": "hypotheekadviseur ",
+          "start": 38.68,
+          "end": 39.43
+        },
+        {
+          "text": "bij ",
+          "start": 39.45,
+          "end": 39.77
+        },
+        {
+          "text": "abn ",
+          "start": 39.78,
+          "end": 40.14
+        },
+        {
+          "text": "amro ",
+          "start": 40.14,
+          "end": 40.36
+        },
+        {
+          "text": "en ",
+          "start": 40.93,
+          "end": 41.11
+        },
+        {
+          "text": "in ",
+          "start": 41.11,
+          "end": 41.170002
+        },
+        {
+          "text": "dit ",
+          "start": 41.17,
+          "end": 41.32
+        },
+        {
+          "text": "geval ",
+          "start": 41.35,
+          "end": 41.55
+        },
+        {
+          "text": "een ",
+          "start": 41.79,
+          "end": 41.870003
+        },
+        {
+          "text": "half ",
+          "start": 41.88,
+          "end": 42.05
+        },
+        {
+          "text": "uur ",
+          "start": 42.05,
+          "end": 42.219997
+        },
+        {
+          "text": "zou ",
+          "start": 42.25,
+          "end": 42.37
+        },
+        {
+          "text": "ik ",
+          "start": 42.37,
+          "end": 42.46
+        },
+        {
+          "text": "graag ",
+          "start": 42.46,
+          "end": 42.73
+        },
+        {
+          "text": "willen ",
+          "start": 42.87,
+          "end": 43.09
+        },
+        {
+          "text": "meenemen ",
+          "start": 43.09,
+          "end": 43.54
+        },
+        {
+          "text": "door ",
+          "start": 43.54,
+          "end": 43.72
+        },
+        {
+          "text": "de ",
+          "start": 43.72,
+          "end": 44.050003
+        },
+        {
+          "text": "mogelijkheden ",
+          "start": 44.05,
+          "end": 44.469997
+        },
+        {
+          "text": "van ",
+          "start": 44.47,
+          "end": 44.64
+        }
+      ],
+      "speaker": "spk1"
+    }
+  ]
+}
